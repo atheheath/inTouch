@@ -12,7 +12,6 @@
 		9BE8B6DB25BA9BAB00BB6857 /* inTouchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE8B6B225BA9BAA00BB6857 /* inTouchApp.swift */; };
 		9BE8B6DC25BA9BAB00BB6857 /* inTouchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE8B6B225BA9BAA00BB6857 /* inTouchApp.swift */; };
 		9BE8B6DD25BA9BAB00BB6857 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE8B6B325BA9BAA00BB6857 /* ContentView.swift */; };
-		9BE8B6DE25BA9BAB00BB6857 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE8B6B325BA9BAA00BB6857 /* ContentView.swift */; };
 		9BE8B6DF25BA9BAB00BB6857 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BE8B6B425BA9BAB00BB6857 /* Assets.xcassets */; };
 		9BE8B6E025BA9BAB00BB6857 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BE8B6B425BA9BAB00BB6857 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -317,7 +316,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BE8B6DE25BA9BAB00BB6857 /* ContentView.swift in Sources */,
 				9BE8B6DC25BA9BAB00BB6857 /* inTouchApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
